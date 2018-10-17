@@ -1,6 +1,0 @@
-{
-  "test_ApplyNowRelogin.py::TestApplyNowReloginSuccess::test_applyNowRelogin_Sussess": true,
-  "test_LeaseSuccess.py::TestLeaseCreatingSuccessPROD::test_LeaseSuccess_NewUser": true,
-  "test_LeaseSuccessDEMO.py::TestLeaseCreatingSuccessDEMO::test_LeaseSuccessSTAGE_CurrentUser": true,
-  "test_ResendAgreement.py::TestResendAgreement::test_ReSendAgreementSuccess_STAGE": true
-}

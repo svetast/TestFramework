@@ -1,5 +1,0 @@
-[
-  "test_LeaseSuccessPROD.py::TestLeaseCreatingSuccessPROD::test_LeaseSuccessPROD_CurrentUser",
-  "test_LeaseSuccessPROD.py::TestLeaseCreatingSuccessPROD::test_LeaseSuccessPROD_NewUser",
-  "test_LeaseSuccessPROD.py::TestLeaseCreatingSuccessPROD::test_LeaseSuccessPROD_Tires"
-]

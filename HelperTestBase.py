@@ -15,14 +15,14 @@ class HelperTestBase(unittest.TestCase):
 
     def setUp(self):
 
-        ### for using Headless Browser:
+        ### to use Headless Browser:
 
         # chrome_options = Options()
         # chrome_options.add_argument("headless")
         # self.driver = webdriver.Chrome(chrome_options=chrome_options)
-        # ###############
 
-        ### for using web Browser :
+
+        ### to use WebBrowser :
 
         self.driver = webdriver.Chrome('chromedriver')
         self.driver.maximize_window()
@@ -59,7 +59,7 @@ class HelperTestBase(unittest.TestCase):
             self.driver.find_element_by_id("zipcode").send_keys('33131')
         self.driver.find_element_by_id("zipcode").send_keys(Keys.ENTER)
         time.sleep(5)
-        # self.driver.find_element_by_xpath("//a[@class='fancybox-item fancybox-close']").click()
+        self.driver.find_element_by_xpath("//a[@class='fancybox-item fancybox-close']").click()
 
     def checkZipcodeValidation(self, zipcode=None):
         element_present = EC.element_to_be_clickable((By.ID, "zip-code-popup-opener"))

@@ -1,0 +1,4 @@
+[
+  "test_ContactUS.py::TestContactUs::test_checkRequiredFields",
+  "test_ContactUS.py::TestContactUs::test_submitContactUsForm"
+]
