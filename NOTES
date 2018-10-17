@@ -25,71 +25,19 @@ PyTest поддерживает класс декораторов @pytest.mark �
 
 
 
-        ### zipcode='19116' mainstreet             #address='15160 Sunflower Drive'
-        ### zipcode='89104' smarttires             # address='2711 E. Sahara Ave'
-        ### zipcode='53563' ltodemo                # address='123 RedLeaf Way. RedLeaf'
-        ### zipcode='19966' patriottireleasing     # address='36533 Pebble Dr.'
-        ### zipcode='60130' wheelzontime.com       # address='7600 W. Roosevelt Rd'
-        ### zipcode='74128' toolcabin              # address ='409 S 109th East Ave'
-'
-        ### zipcode ='19030' # 394 Lincoln Highway ### like as "SmartTires Philadelphia"
-
-        ### zipcode ='77064'  toolcabin  address = '9518 Therrell Dr'
-
-        ### zipcade = '30144' # '3155 Jiles Rd NW'   address ='3155 Jiles Rd NW'
-        ### zipcode = '73301' # address  Teri road, city = Austin, state =  TX
-
-        ## ###zipcode = '77057' address = '5847 San Felipe St', city = 'Houston', state = 'TX'
-
-        ## zipcode = '33131' address = 'Brickell Avenue' , '788 Brickell Plaza' , '100 Chopin Plaza' , '4100 West Flagler St.'
-
-        ## zipcode = '30144' address = '1640 Airport Rd'
-
-
-        ###zipcode = '08840' address =  '47-1 Bissett Pl Metuchen' state =  'NJ'
-
-        ###zipcode = '08057'
-
-        ####address = '564 Countryman Creek Rd' , zip code = '59019'  state = 'Columbus', MT
 
 
 
 
 
 
-        # STAGE:
-        # self.base_url = 'https://stage.smarttiresrto.com'  # zipcode = '89104'
-        # self.base_url = 'https://stg.mainstreetlto.com'  # zipcode = '19116'
-        # self.base_url = 'https://stg.wheelzontime.com'  # zipcode = '60130'
-        # self.base_url = 'https://stg.patriottireleasing.com'  # zipcode = '19966' or '89104'
-        # self.base_url = 'https://stg.the-tool-cabin.com'  # zipcode = '74128'
-
-        # DEMO:
-        # self.base_url = "https://smarttires.ltodemo.co" # zipcode = '89104'
-        # self.base_url = "http://www.ltodemo.com"  # zipcode = '89104'
-        # self.base_url = 'http://toolcabin.ltodemo.com'  # zipcode = '74128'
-
-        # PROD:
-        # self.base_url = 'https://smoke.ltomall.com'  # zipcode = '89104'
-        # self.base_url = 'https://www.patriottireleasing.com' # zipcode = '19966'
-        # self.base_url = 'https://shop.smarttires.com' # zipcode = '89104'
 
 
 
 
 
 
-################### PAYMENT SYSTEMS
 
-
-BluePay - this payment system processes Credit/Debit card and Saving/Checking accounts
-Testing data for this system: Card - 4111-1111-1111-1111, CVV 123, 12/2025;
-ACH - routingNum: 123123123, accountNum: 123456789, accountType: C
-ACH Routing Number - 071925046, Account Number – 123456789
-Visa - 4111111111111111
-MasterCard - 5500000000000004
-American Express - 378282246310005
-Discover - 6011111111111117"
 
 
 
