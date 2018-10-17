@@ -1,0 +1,13 @@
+[
+  "test_ContactUS.py::TestContactUs::test_submitContactUsForm",
+  "test_HomePage.py::TestHomePage::test_checkElements",
+  "test_LeaseSuccess.py::TestLeaseCreatingSuccessPROD::test_LeaseSuccessPROD_NewUser",
+  "test_LeaseSuccess.py::TestLeaseCreatingSuccessPROD::test_LeaseSuccessPROD_Tires",
+  "test_LogIn.py::TestLogin::test_loginSuccess_LogOut",
+  "test_ManageAccount.py::TestManageAccount::test_checkNavigation",
+  "test_Navigation.py::TestNavigation::test_navigationFooterUnAuthorizedUser",
+  "test_Navigation.py::TestNavigation::test_navigationHeaderUnAuthorizedUser",
+  "test_Search.py::TestSearch::test_checkSearchFunction_UnAuthorizedUser",
+  "test_UnSubscribe.py::TestUnSubscribe::test_submitUnSubscribeForm",
+  "test_ZipCodeValidation.py::TestZipCodeValidation::test_zipcodeValidation"
+]

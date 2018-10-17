@@ -1,0 +1,6 @@
+selenium==3.12.0
+pytest==3.6.1
+pytest-cov==2.5.1
+pytest-html==1.8.1
+pytest-env
+#StringGenerator

@@ -1,0 +1,8 @@
+{
+  "test_CartValidation.py::TestCartValidation::test_CartQTY": true,
+  "test_ProductDetails.py::TestProductDetails::test_ProductDetailsValidation": true,
+  "test_RegistrationGetSpendingLimitSuccess.py::TestRegistrationSuccess::test_registration_GetSpendingLimitSuccess": true,
+  "test_Registration_GetFailedBankingINFOStatus.py::TestRegistrationInvalidCardNumber::test_registration_GetFailedBankingINFOStatus": true,
+  "test_Registration_InvalidDriverLicense.py::TestRegistrationInvalidDriverLicense::test_registration_GetSpendingLimitUnSuccess_InvalidDriverLicense": true,
+  "test_ResendAgreement.py::TestResendAgreement::test_ReSendAgreementSuccess_STAGE": true
+}

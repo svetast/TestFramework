@@ -1,0 +1,7 @@
+{
+  "test_DontAccessStatesRegistration.py::TestDontAccessStatesRegistration::test_DontAccessStatesRegistration": true,
+  "test_Registration_GetFailedBankingINFOStatus.py::TestRegistrationInvalidCardNumber::test_registration_IncompleteStatus_CardNumberNotExist": true,
+  "test_Registration_InvalidDriverLicense.py::TestRegistrationInvalidDriverLicense::test_registration_GetSpendingLimitUnSuccess_InvalidDriverLicense": true,
+  "test_Search.py::TestSearch::test_check_ProductsPerPageFilterFooter_AuthorizedUser": true,
+  "test_ZipCodeValidation.py::TestZipCodeValidation::test_zipcodeValidation": true
+}

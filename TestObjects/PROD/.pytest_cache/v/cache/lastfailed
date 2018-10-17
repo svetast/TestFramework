@@ -1,0 +1,11 @@
+{
+  "test_ApplyNowRelogin.py::TestApplyNowReloginSuccess::test_applyNowRelogin_Sussess": true,
+  "test_ContactUS.py::TestContactUs::test_submitContactUsForm": true,
+  "test_LeaseSuccessPROD.py::TestLeaseCreatingSuccessPROD::test_LeaseSuccessPROD_NewUser": true,
+  "test_ManageAccount.py::TestManageAccount::test_changePassword": true,
+  "test_ProductDetails.py::TestProductDetails::test_ProductDetailsValidation": true,
+  "test_RegistrationEmptyFields.py::TestRegistrationEmptyFields::test_checkRequirementFields": true,
+  "test_RegistrationGetSpendingLimitSuccess.py::TestRegistrationSuccess::test_registration_GetSpendingLimitSuccess": true,
+  "test_RegistrationUnSuccessAgeLimitation.py::TestRegistrationUnSuccessAgeLimitation::test_registrationAgeUnder18": true,
+  "test_Registration_GetFailedBankingINFOStatus.py::TestRegistrationInvalidCardNumber::test_registration_GetFailedBankingINFOStatus": true
+}

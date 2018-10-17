@@ -1,0 +1,16 @@
+{
+  "test_ApplyNowRelogin.py::TestApplyNowReloginSuccess::test_applyNowRelogin_Sussess": true,
+  "test_LeaseSuccessDEMO.py::TestLeaseCreatingSuccessDEMO::test_LeaseSuccessDEMO": true,
+  "test_ManageAccount.py::TestManageAccount::test_changeEmail": true,
+  "test_ManageAccount.py::TestManageAccount::test_changePassword": true,
+  "test_Navigation.py::TestNavigation::test_navigationFooterAuthorizedUser": true,
+  "test_Navigation.py::TestNavigation::test_navigationFooterUnAuthorizedUser": true,
+  "test_ProductDetails.py::TestProductDetails::test_ProductDetailsValidation": true,
+  "test_RegistrationEmptyFields.py::TestRegistrationEmptyFields::test_checkRequirementFields": true,
+  "test_RegistrationGetSpendingLimitSuccess.py::TestRegistrationSuccess::test_registration_GetSpendingLimitSuccess": true,
+  "test_Registration_GetFailedBankingINFOStatus.py::TestRegistrationInvalidCardNumber::test_registration_IncompleteStatus_CardNumberNotExist": true,
+  "test_Registration_InvalidDriverLicense.py::TestRegistrationInvalidDriverLicense::test_registration_GetSpendingLimitUnSuccess_InvalidDriverLicense": true,
+  "test_Search.py::TestSearch::test_check_ProductsPerPageFilterFooter_AuthorizedUser": true,
+  "test_Search.py::TestSearch::test_check_SortByFilter_AuthorizedUser": true,
+  "test_UnSubscribe.py::TestUnSubscribe::test_submitUnSubscribeForm": true
+}
